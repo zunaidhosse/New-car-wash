@@ -1,0 +1,7 @@
+{
+  "name": "QR Loyalty Card System",
+  "description": "A QR-based client tracking system for managing customer loyalty points. It features an admin panel for user management and QR generation, and a customer app for viewing status via QR scan. The app works completely offline using local storage.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
